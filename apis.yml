@@ -51,6 +51,14 @@ tags:
 - Security Guards
 - Marketplace
 - Workforce Management
+- Field Service
+tags_raw:
+- Company
+- Security
+- Physical Security
+- Security Guards
+- Marketplace
+- Workforce Management
 - Field Services
 apis: []
 maintainers:
